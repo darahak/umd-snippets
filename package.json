@@ -1,0 +1,20 @@
+{
+  "name": "umd-snippets",
+  "version": "0.0.0",
+  "description": "UMD snippets for Atom.",
+  "keywords": [
+    "umd",
+    "universal",
+    "module",
+    "define",
+    "amd",
+    "commonjs"
+  ],
+  "repository": "https://github.com/darahak/umd-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
