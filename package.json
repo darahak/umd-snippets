@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "description": "UMD snippets for Atom.",
   "keywords": [
+    "javascript",
+    "snippets",
     "umd",
     "universal",
     "module",
